@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git remote add origin https://github.com/PabloGoVal/proyecto_examen.git
+git commit -m "Initial commit"
+git push origin master
